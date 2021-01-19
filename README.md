@@ -1,7 +1,7 @@
 # Transport Protocol
 
 ## Description
-This is a custom transfer protocol built send and receive data through a channel. The user may specify any file that they want to send through the channel, and compare the received file's contents to the original file. Channel simulation code was written by Shivam Mevawala. 
+This is a custom transfer protocol built to send and receive data through a simulated channel. The user may specify any file that they want to send through the channel, and compare the received file's contents to the original file. Channel simulation code was written by Shivam Mevawala. 
 
 ## Instructions
 1. Install [Python 3+](https://www.python.org/downloads/)
