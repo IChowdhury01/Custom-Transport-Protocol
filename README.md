@@ -10,5 +10,5 @@ This is a custom transfer protocol built send and receive data through a channel
 4. `make test` to simulate data transfer of the input file through the channel.
 5. `make diff` to compare the sent transferred input file and received output file.
 6. Other options
-  - `make kill` to end the program.
-  - `make clean` to clean leftover files.
+    - `make kill` to end the program.
+    - `make clean` to clean leftover files.
